@@ -1,0 +1,40 @@
+body {
+    background: #F5F1E3;
+    font-family: 'Poppins', sans-serif;;
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 5rem;
+}
+
+#links {
+    margin-bottom: 50px;
+}
+
+#links > ul {
+    list-style-position: inside; 
+    display: inline-block; 
+    text-align: left; 
+}
+
+#about {
+    margin-bottom: 40px;
+    border-width: 3px;
+    border-style: solid;
+}
+
+#recipes {
+    margin-bottom: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#recipes > div {
+    margin-bottom: 60px;
+    border-width: 1px;
+    border-style: solid;
+}
+
+#recipes p {
+    font-style: italic;
+}
