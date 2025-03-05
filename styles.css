@@ -30,6 +30,7 @@ body {
 }
 
 #recipes > div {
+    margin: auto;
     margin-bottom: 60px;
     border-width: 1px;
     border-style: solid;
